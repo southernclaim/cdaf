@@ -9,6 +9,11 @@
       "username": "adap",
       "password": "oiadap",
       "expiresAt": "2028-06-30T23:59:59Z"
+    },
+    {
+      "username": "fulano",
+      "password": "oiadap",
+      "expiresAt": "2025-06-30T23:59:59Z"
     }
   ]
 }
