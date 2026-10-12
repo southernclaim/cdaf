@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "username": "iago",
+      "password": "321321",
+      "expiresAt": "2028-12-31T23:59:59Z"
+    },
+    {
+      "username": "adap",
+      "password": "oiadap",
+      "expiresAt": "2028-06-30T23:59:59Z"
+    }
+  ]
+}
